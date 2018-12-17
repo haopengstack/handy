@@ -5,4 +5,5 @@
 #include "logging.h"
 #include "slice.h"
 #include "threads.h"
+#include "udp.h"
 #include "util.h"
